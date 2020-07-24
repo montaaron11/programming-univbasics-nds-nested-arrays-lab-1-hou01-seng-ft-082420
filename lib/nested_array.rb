@@ -18,8 +18,8 @@ CONVENTIONAL_PRODUCE = [
 
 def assembled_matrix
   storage_room = [
-  ORGANIC_PRODUCE,
-  CONVENTIONAL_PRODUCE
+  CONVENTIONAL_PRODUCE,
+  ORGANIC_PRODUCE
   ]
 end
 
